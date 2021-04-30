@@ -1,0 +1,4 @@
+#Mon Aug 31 22:21:47 BRT 2020
+base.0=/home/jhonatan/Desktop/Bootcamp/gobarber/appgobarber/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
